@@ -4,12 +4,15 @@ from app.db.chroma_client import ChromaClient
 class VectorStoreService:
     def __init__(self):
         self.collection = CollectionManager().getCollection()
-        self.chroma_client = ChromaClient().get_client()
+        self.client = ChromaClient().get_client()
         
-    def add_documents(self, documents):
-        self.collection.add(documents)
-        self.chroma_client.persist()
-        
-    def query(self, query, n_results=5):
-        results = self.collection.query(query_texts=[query], n_results=n_results)
-        return results
+    def add_documents(self, docs, ids):
+        self.collection.add(documents=docs, ids=ids)
+        print(f"Collection count: {self.collection.count()}")
+
+    def query(self, query_text, n=3):
+        return self.collection.query(
+            query_texts=[query_text],
+            n_results=n
+            #include=["embeddings", "documents", "distances"]
+        )
