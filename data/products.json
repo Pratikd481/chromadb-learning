@@ -1,0 +1,702 @@
+[
+    {
+        "product_id": "p1001",
+        "name": "iPhone 14",
+        "description": "Apple iPhone 14 with A15 chip and 128GB storage. Flagship premium device",
+        "category": "mobile",
+        "price": 65000
+    },
+    {
+        "product_id": "p1002",
+        "name": "Samsung Galaxy S21",
+        "description": "Samsung flagship phone with AMOLED display. High performance device",
+        "category": "mobile",
+        "price": 55000
+    },
+    {
+        "product_id": "p1003",
+        "name": "MacBook Air M2",
+        "description": "Lightweight laptop with Apple M2 chip. Flagship premium device",
+        "category": "laptop",
+        "price": 95000
+    },
+    {
+        "product_id": "p1004",
+        "name": "Dell XPS 13",
+        "description": "Compact high-performance laptop for developers. Flagship premium device",
+        "category": "laptop",
+        "price": 90000
+    },
+    {
+        "product_id": "p1005",
+        "name": "iPhone 1",
+        "description": "High-quality mobile product with advanced features. Budget friendly option",
+        "category": "mobile",
+        "price": 30000
+    },
+    {
+        "product_id": "p1006",
+        "name": "Dell XPS 1",
+        "description": "High-quality laptop product with advanced features. Budget friendly option",
+        "category": "laptop",
+        "price": 41145
+    },
+    {
+        "product_id": "p1007",
+        "name": "Microsoft Surface 1",
+        "description": "High-quality tablet product with advanced features. Budget friendly option",
+        "category": "tablet",
+        "price": 21250
+    },
+    {
+        "product_id": "p1008",
+        "name": "Fitbit 1",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 11250
+    },
+    {
+        "product_id": "p1009",
+        "name": "AirPods 1",
+        "description": "High-quality headphones product with advanced features. Budget friendly option",
+        "category": "headphones",
+        "price": 6041
+    },
+    {
+        "product_id": "p1010",
+        "name": "Sony A7 1",
+        "description": "High-quality camera product with advanced features. Budget friendly option",
+        "category": "camera",
+        "price": 57812
+    },
+    {
+        "product_id": "p1011",
+        "name": "Samsung Galaxy 2",
+        "description": "High-quality mobile product with advanced features. Budget friendly option",
+        "category": "mobile",
+        "price": 34375
+    },
+    {
+        "product_id": "p1012",
+        "name": "Lenovo ThinkPad 2",
+        "description": "High-quality laptop product with advanced features. Budget friendly option",
+        "category": "laptop",
+        "price": 48020
+    },
+    {
+        "product_id": "p1013",
+        "name": "iPad 2",
+        "description": "High-quality tablet product with advanced features. Budget friendly option",
+        "category": "tablet",
+        "price": 25000
+    },
+    {
+        "product_id": "p1014",
+        "name": "Samsung Galaxy Watch 2",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 13750
+    },
+    {
+        "product_id": "p1015",
+        "name": "Bose QC 2",
+        "description": "High-quality headphones product with advanced features. Budget friendly option",
+        "category": "headphones",
+        "price": 7604
+    },
+    {
+        "product_id": "p1016",
+        "name": "GoPro 2",
+        "description": "High-quality camera product with advanced features. High performance device",
+        "category": "camera",
+        "price": 67187
+    },
+    {
+        "product_id": "p1017",
+        "name": "Google Pixel 3",
+        "description": "High-quality mobile product with advanced features. High performance device",
+        "category": "mobile",
+        "price": 38750
+    },
+    {
+        "product_id": "p1018",
+        "name": "HP Pavilion 3",
+        "description": "High-quality laptop product with advanced features. Budget friendly option",
+        "category": "laptop",
+        "price": 54895
+    },
+    {
+        "product_id": "p1019",
+        "name": "Microsoft Surface 3",
+        "description": "High-quality tablet product with advanced features. High performance device",
+        "category": "tablet",
+        "price": 28750
+    },
+    {
+        "product_id": "p1020",
+        "name": "Fitbit 3",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 16250
+    },
+    {
+        "product_id": "p1021",
+        "name": "AirPods 3",
+        "description": "High-quality headphones product with advanced features. Budget friendly option",
+        "category": "headphones",
+        "price": 9166
+    },
+    {
+        "product_id": "p1022",
+        "name": "Sony A7 3",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 76562
+    },
+    {
+        "product_id": "p1023",
+        "name": "OnePlus 4",
+        "description": "High-quality mobile product with advanced features. High performance device",
+        "category": "mobile",
+        "price": 43125
+    },
+    {
+        "product_id": "p1024",
+        "name": "Asus VivoBook 4",
+        "description": "High-quality laptop product with advanced features. High performance device",
+        "category": "laptop",
+        "price": 61770
+    },
+    {
+        "product_id": "p1025",
+        "name": "iPad 4",
+        "description": "High-quality tablet product with advanced features. High performance device",
+        "category": "tablet",
+        "price": 32500
+    },
+    {
+        "product_id": "p1026",
+        "name": "Samsung Galaxy Watch 4",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 18750
+    },
+    {
+        "product_id": "p1027",
+        "name": "Bose QC 4",
+        "description": "High-quality headphones product with advanced features. High performance device",
+        "category": "headphones",
+        "price": 10729
+    },
+    {
+        "product_id": "p1028",
+        "name": "GoPro 4",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 85937
+    },
+    {
+        "product_id": "p1029",
+        "name": "Motorola Edge 5",
+        "description": "High-quality mobile product with advanced features. High performance device",
+        "category": "mobile",
+        "price": 47500
+    },
+    {
+        "product_id": "p1030",
+        "name": "MacBook 5",
+        "description": "High-quality laptop product with advanced features. High performance device",
+        "category": "laptop",
+        "price": 68645
+    },
+    {
+        "product_id": "p1031",
+        "name": "Microsoft Surface 5",
+        "description": "High-quality tablet product with advanced features. High performance device",
+        "category": "tablet",
+        "price": 36250
+    },
+    {
+        "product_id": "p1032",
+        "name": "Fitbit 5",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 21250
+    },
+    {
+        "product_id": "p1033",
+        "name": "AirPods 5",
+        "description": "High-quality headphones product with advanced features. High performance device",
+        "category": "headphones",
+        "price": 12291
+    },
+    {
+        "product_id": "p1034",
+        "name": "Sony A7 5",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 95312
+    },
+    {
+        "product_id": "p1035",
+        "name": "iPhone 6",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 51875
+    },
+    {
+        "product_id": "p1036",
+        "name": "Dell XPS 6",
+        "description": "High-quality laptop product with advanced features. High performance device",
+        "category": "laptop",
+        "price": 75520
+    },
+    {
+        "product_id": "p1037",
+        "name": "iPad 6",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 40000
+    },
+    {
+        "product_id": "p1038",
+        "name": "Samsung Galaxy Watch 6",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 23750
+    },
+    {
+        "product_id": "p1039",
+        "name": "Bose QC 6",
+        "description": "High-quality headphones product with advanced features. High performance device",
+        "category": "headphones",
+        "price": 13854
+    },
+    {
+        "product_id": "p1040",
+        "name": "GoPro 6",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 104687
+    },
+    {
+        "product_id": "p1041",
+        "name": "Samsung Galaxy 7",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 56250
+    },
+    {
+        "product_id": "p1042",
+        "name": "Lenovo ThinkPad 7",
+        "description": "High-quality laptop product with advanced features. High performance device",
+        "category": "laptop",
+        "price": 82395
+    },
+    {
+        "product_id": "p1043",
+        "name": "Microsoft Surface 7",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 43750
+    },
+    {
+        "product_id": "p1044",
+        "name": "Fitbit 7",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 26250
+    },
+    {
+        "product_id": "p1045",
+        "name": "AirPods 7",
+        "description": "High-quality headphones product with advanced features. High performance device",
+        "category": "headphones",
+        "price": 15416
+    },
+    {
+        "product_id": "p1046",
+        "name": "Sony A7 7",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 114062
+    },
+    {
+        "product_id": "p1047",
+        "name": "Google Pixel 8",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 60625
+    },
+    {
+        "product_id": "p1048",
+        "name": "HP Pavilion 8",
+        "description": "High-quality laptop product with advanced features. High performance device",
+        "category": "laptop",
+        "price": 89270
+    },
+    {
+        "product_id": "p1049",
+        "name": "iPad 8",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 47500
+    },
+    {
+        "product_id": "p1050",
+        "name": "Samsung Galaxy Watch 8",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 28750
+    },
+    {
+        "product_id": "p1051",
+        "name": "Bose QC 8",
+        "description": "High-quality headphones product with advanced features. High performance device",
+        "category": "headphones",
+        "price": 16979
+    },
+    {
+        "product_id": "p1052",
+        "name": "GoPro 8",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 123437
+    },
+    {
+        "product_id": "p1053",
+        "name": "OnePlus 9",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 65000
+    },
+    {
+        "product_id": "p1054",
+        "name": "Asus VivoBook 9",
+        "description": "High-quality laptop product with advanced features. High performance device",
+        "category": "laptop",
+        "price": 96145
+    },
+    {
+        "product_id": "p1055",
+        "name": "Microsoft Surface 9",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 51250
+    },
+    {
+        "product_id": "p1056",
+        "name": "Fitbit 9",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 31250
+    },
+    {
+        "product_id": "p1057",
+        "name": "AirPods 9",
+        "description": "High-quality headphones product with advanced features. High performance device",
+        "category": "headphones",
+        "price": 18541
+    },
+    {
+        "product_id": "p1058",
+        "name": "Sony A7 9",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 132812
+    },
+    {
+        "product_id": "p1059",
+        "name": "Motorola Edge 10",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 69375
+    },
+    {
+        "product_id": "p1060",
+        "name": "MacBook 10",
+        "description": "High-quality laptop product with advanced features. Flagship premium device",
+        "category": "laptop",
+        "price": 103020
+    },
+    {
+        "product_id": "p1061",
+        "name": "iPad 10",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 55000
+    },
+    {
+        "product_id": "p1062",
+        "name": "Samsung Galaxy Watch 10",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 33750
+    },
+    {
+        "product_id": "p1063",
+        "name": "Bose QC 10",
+        "description": "High-quality headphones product with advanced features. Flagship premium device",
+        "category": "headphones",
+        "price": 20104
+    },
+    {
+        "product_id": "p1064",
+        "name": "GoPro 10",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 142187
+    },
+    {
+        "product_id": "p1065",
+        "name": "iPhone 11",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 73750
+    },
+    {
+        "product_id": "p1066",
+        "name": "Dell XPS 11",
+        "description": "High-quality laptop product with advanced features. Flagship premium device",
+        "category": "laptop",
+        "price": 109895
+    },
+    {
+        "product_id": "p1067",
+        "name": "Microsoft Surface 11",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 58750
+    },
+    {
+        "product_id": "p1068",
+        "name": "Fitbit 11",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 36250
+    },
+    {
+        "product_id": "p1069",
+        "name": "AirPods 11",
+        "description": "High-quality headphones product with advanced features. Flagship premium device",
+        "category": "headphones",
+        "price": 21666
+    },
+    {
+        "product_id": "p1070",
+        "name": "Sony A7 11",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 151562
+    },
+    {
+        "product_id": "p1071",
+        "name": "Samsung Galaxy 12",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 78125
+    },
+    {
+        "product_id": "p1072",
+        "name": "Lenovo ThinkPad 12",
+        "description": "High-quality laptop product with advanced features. Flagship premium device",
+        "category": "laptop",
+        "price": 116770
+    },
+    {
+        "product_id": "p1073",
+        "name": "iPad 12",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 62500
+    },
+    {
+        "product_id": "p1074",
+        "name": "Samsung Galaxy Watch 12",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 38750
+    },
+    {
+        "product_id": "p1075",
+        "name": "Bose QC 12",
+        "description": "High-quality headphones product with advanced features. Flagship premium device",
+        "category": "headphones",
+        "price": 23229
+    },
+    {
+        "product_id": "p1076",
+        "name": "GoPro 12",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 160937
+    },
+    {
+        "product_id": "p1077",
+        "name": "Google Pixel 13",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 82500
+    },
+    {
+        "product_id": "p1078",
+        "name": "HP Pavilion 13",
+        "description": "High-quality laptop product with advanced features. Flagship premium device",
+        "category": "laptop",
+        "price": 123645
+    },
+    {
+        "product_id": "p1079",
+        "name": "Microsoft Surface 13",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 66250
+    },
+    {
+        "product_id": "p1080",
+        "name": "Fitbit 13",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 41250
+    },
+    {
+        "product_id": "p1081",
+        "name": "AirPods 13",
+        "description": "High-quality headphones product with advanced features. Flagship premium device",
+        "category": "headphones",
+        "price": 24791
+    },
+    {
+        "product_id": "p1082",
+        "name": "Sony A7 13",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 170312
+    },
+    {
+        "product_id": "p1083",
+        "name": "OnePlus 14",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 86875
+    },
+    {
+        "product_id": "p1084",
+        "name": "Asus VivoBook 14",
+        "description": "High-quality laptop product with advanced features. Flagship premium device",
+        "category": "laptop",
+        "price": 130520
+    },
+    {
+        "product_id": "p1085",
+        "name": "iPad 14",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 70000
+    },
+    {
+        "product_id": "p1086",
+        "name": "Samsung Galaxy Watch 14",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 43750
+    },
+    {
+        "product_id": "p1087",
+        "name": "Bose QC 14",
+        "description": "High-quality headphones product with advanced features. Flagship premium device",
+        "category": "headphones",
+        "price": 26354
+    },
+    {
+        "product_id": "p1088",
+        "name": "GoPro 14",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 179687
+    },
+    {
+        "product_id": "p1089",
+        "name": "Motorola Edge 15",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 91250
+    },
+    {
+        "product_id": "p1090",
+        "name": "MacBook 15",
+        "description": "High-quality laptop product with advanced features. Flagship premium device",
+        "category": "laptop",
+        "price": 137395
+    },
+    {
+        "product_id": "p1091",
+        "name": "Microsoft Surface 15",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 73750
+    },
+    {
+        "product_id": "p1092",
+        "name": "Fitbit 15",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 46250
+    },
+    {
+        "product_id": "p1093",
+        "name": "AirPods 15",
+        "description": "High-quality headphones product with advanced features. Flagship premium device",
+        "category": "headphones",
+        "price": 27916
+    },
+    {
+        "product_id": "p1094",
+        "name": "Sony A7 15",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 189062
+    },
+    {
+        "product_id": "p1095",
+        "name": "iPhone 16",
+        "description": "High-quality mobile product with advanced features. Flagship premium device",
+        "category": "mobile",
+        "price": 95625
+    },
+    {
+        "product_id": "p1096",
+        "name": "Dell XPS 16",
+        "description": "High-quality laptop product with advanced features. Flagship premium device",
+        "category": "laptop",
+        "price": 144270
+    },
+    {
+        "product_id": "p1097",
+        "name": "iPad 16",
+        "description": "High-quality tablet product with advanced features. Flagship premium device",
+        "category": "tablet",
+        "price": 77500
+    },
+    {
+        "product_id": "p1098",
+        "name": "Samsung Galaxy Watch 16",
+        "description": "High-quality smartwatch product with advanced features. Battery optimized device",
+        "category": "smartwatch",
+        "price": 48750
+    },
+    {
+        "product_id": "p1099",
+        "name": "Bose QC 16",
+        "description": "High-quality headphones product with advanced features. Flagship premium device",
+        "category": "headphones",
+        "price": 29479
+    },
+    {
+        "product_id": "p1100",
+        "name": "GoPro 16",
+        "description": "High-quality camera product with advanced features. Flagship premium device",
+        "category": "camera",
+        "price": 198437
+    }
+]

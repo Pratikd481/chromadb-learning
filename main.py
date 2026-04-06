@@ -1,12 +1,33 @@
 from app.services.vector_store_service import VectorStoreService
+from app.services.query_service import QueryService
+import json
 
-service = VectorStoreService()
+# service = VectorStoreService()
 
-# simulate usage
-service.add_documents(["Mobile under 50k"], ["5"])
-service.add_documents(["Mobile under 20k"], ["6"])
-service.add_documents(["Tablet under 20k"], ["7"])
-service.add_documents(["Tablet under 20k"], ["8"])
-service.add_documents(["Laptop under 20k"], ["9"])
-result = service.query("Pc cheap")
-print(result)
+# result = service.query("Pc cheap")
+# print(result)
+
+query_service = QueryService()
+
+for query in [
+    "cheap mobile phone",
+    "flagship premium laptop",
+    "battery optimized smartwatch",
+    "best headphones"
+]:
+    result = query_service.query(query, n=5)
+    print("QUERY:", query)
+    print(json.dumps(result, indent=2))
+    
+## Data Available:
+# mobile
+# laptop
+# tablet
+# smartwatch
+# headphones
+# camera
+# Flagship premium device
+# High performance device
+# Budget friendly option
+# Battery optimized device
+
